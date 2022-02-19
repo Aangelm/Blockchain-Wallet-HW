@@ -5,7 +5,7 @@
 ![GANACHETRANSPROOF](https://user-images.githubusercontent.com/90700310/154776312-f43fba47-f736-4a3d-b72d-a08080a8c627.jpg)
 
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+![19-4-challenge-image](https://user-images.githubusercontent.com/90700310/154776570-0605fbfa-f909-4ec2-b513-9c260eab9684.png)
 
 ### Background
 
